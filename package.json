@@ -1,0 +1,24 @@
+{
+  "name": "exercicio03certo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "grunt": "grunt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piekarskiprado/exercicio03certo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piekarskiprado/exercicio03certo/issues"
+  },
+  "homepage": "https://github.com/piekarskiprado/exercicio03certo#readme",
+  "description": "",
+  "devDependencies": {
+    "grunt": "^1.5.3"
+  }
+}
